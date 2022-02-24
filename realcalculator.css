@@ -1,0 +1,37 @@
+input{
+    width: 280px;
+    height: 90px;
+    border-radius: 10px;
+    background-color: rgb(114, 109, 109);
+    color: white;
+    font-size: 25px;
+}
+button{
+    width: 70%;
+    text-align: center;
+    height: 50px;
+    font-size: 20px;
+    margin: 5px;
+    border-radius: 20px;
+    padding: 10px;
+    border: thin solid white;
+}
+button:focus{
+    outline: none;
+}
+#equal{
+    height: 110px;
+}
+td{
+    align-items: center;
+    text-align: center;
+    height: 30px;
+}
+table{
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+}
+body{
+    bac
+}
